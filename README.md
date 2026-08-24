@@ -341,8 +341,4 @@ The central engineering idea is:
 
 > **Large files belong in decentralized storage; blockchain is used where immutability, verification, and ownership records provide value.**
 
----
 
-## 📄 License
-
-Add an appropriate open-source license before publishing the repository publicly.
